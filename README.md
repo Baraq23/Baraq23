@@ -3,7 +3,11 @@
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Baraq23.Baraq23" />
 
-
+- 👋 Hey there! I'm Barrack, a full-stack Software Engineer based here in Kisumu, Kenya.
+- 💻 I'm really into web development, especially working with JavaScript, Go, and modern frameworks like React.
+- 🎯 I love building clean, responsive web apps that are easy to use and actually solve real problems.
+- 📚 Always learning, always improving — whether it's better code, better design, or better teamwork.
+- 🤝 Let’s connect and build something great together!
 
 <div align="center"> 
   <a href="mailto:barrackotieno160@gmail.com">
