@@ -31,7 +31,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,html,css,vscode,github,figma,git,nodejs,react" />
-    <img src="https://skillicons.dev/icons?i=go,javascript,rust,sqlite,Python,MySQL,Jenkins,MongoDB,Docker" /><br>
+    <img src="https://skillicons.dev/icons?i=go,javascript,rust,sqlite,python,mysql,jenkins,mongodb,docker" /><br>
     <!-- include python, c, react, nodejs,  -->
 </div>
 
