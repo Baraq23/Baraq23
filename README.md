@@ -30,8 +30,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,html,css,vscode,github,figma,git,nodejs,react" />
-    <img src="https://skillicons.dev/icons?i=go,javascript,rust,sqlite,python,mysql,jenkins,mongodb,docker" /><br>
+    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,html,css,vscode,github,figma,git,nodejs,react,githubactions" />
+    <img src="https://skillicons.dev/icons?i=go,javascript,rust,sqlite,python,mysql,jenkins,mongodb,docker,redis,pycharm,kafka" /><br>
     <!-- include python, c, react, nodejs,  -->
 </div>
 
